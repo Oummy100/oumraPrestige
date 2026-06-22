@@ -1,0 +1,38 @@
+.apropos {
+    padding-top: 7rem !important;
+    padding-bottom: 7rem !important;
+}
+
+.image {
+    border-radius: 15px;
+    width: 100rem;
+    height: 90vh;
+    background-image: url(../asset/khabat.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.grosCercle {
+    width: 50px;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+
+}
+
+.purple{
+    background: rgb(102, 0, 255);
+}
+
+
+.purple-clear{
+    background: rgb(156, 29, 156);
+}
+
+    .col-lg-4 {
+        width: 32%;
+    }
+
+    .analytics {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}

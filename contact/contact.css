@@ -1,0 +1,17 @@
+.coordonnées{
+   width: 43px !important;
+   height: 43px !important;
+}
+
+.warning{
+    background: rgba(232, 221, 165, 0.195);
+}
+
+.localisation{
+    background: rgba(228, 235, 242, 0.389);
+}
+
+.secondary{
+    background: rgb(207, 211, 219);
+    height: 300px;
+}

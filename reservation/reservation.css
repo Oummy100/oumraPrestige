@@ -1,0 +1,8 @@
+.number{
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.warning{
+    background: rgba(239, 207, 3, 0.104);
+}
