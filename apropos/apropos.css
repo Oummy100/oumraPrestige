@@ -36,3 +36,7 @@
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
 }
+
+.navbar {
+  z-index: 1000;
+}

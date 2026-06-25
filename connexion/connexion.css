@@ -46,3 +46,9 @@ padding-top: 6px;
 footer{
     background: rgb(19, 19, 39);
 }
+
+
+.warning{
+    width: 50px;
+    height: 50px;
+}
